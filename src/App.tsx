@@ -19,7 +19,7 @@ const App: React.FC = () => {
             sx={{ marginTop: 2 }}
             onClick={() => alert("Hello, Material UI!")}
           >
-            Click Me
+            Click Meeeeeee
           </Button>
         </CardContent>
       </Card>
